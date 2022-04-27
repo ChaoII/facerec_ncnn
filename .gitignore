@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# directory
+build
+models/*
+facelib/*.jpg
+
 # Compiled Object files
 *.slo
 *.lo
