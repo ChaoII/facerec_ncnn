@@ -3,7 +3,14 @@
 
 # directory
 build
-models/*
+models/facebox
+models/mobileface
+models/mobileface_1
+models/mobileface_2
+models/ms1mv3
+models/scrfd
+models/tencent_1
+models/tencent_2
 facelib/*.jpg
 .idea
 
