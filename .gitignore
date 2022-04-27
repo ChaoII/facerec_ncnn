@@ -5,6 +5,7 @@
 build
 models/*
 facelib/*.jpg
+.idea
 
 # Compiled Object files
 *.slo
