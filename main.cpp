@@ -5,7 +5,7 @@
 
 int main() {
 
-    FacePipeline pipeline("../models/scrfd", "../models/facenet_casia-webface_resnet");
+    FacePipeline pipeline("../models/scrfd", "../models/mobileface");
     pipeline.build_index("../facelib");
     cv::VideoCapture cap(1);
     cap.set(3, 640);
